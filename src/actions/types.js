@@ -1,0 +1,6 @@
+export const REGISTER_USER = 'REGISTER_USER';
+export const SEND_MESSAGE ='SEND_MESSAGE';
+export const FETCH_CHATROOMS = 'FETCH_CHATROOMS'
+export const LOADING_START = 'LOADING_START'
+export const LOADING_END = 'LOADING_END'
+export const ACTIVE_NODE = 'ACTIVE_NODE'
